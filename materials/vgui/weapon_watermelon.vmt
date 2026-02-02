@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/entities/weapon_watermelon"
+	"$translucent" 0
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+	"$nolod" 1
+	"$ignorez" 1
+}
