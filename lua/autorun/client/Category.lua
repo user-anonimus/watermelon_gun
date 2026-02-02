@@ -1,0 +1,1 @@
+list.Set("ContentCategoryIcons", "Noob20897's Sweps", "icon16/tab.png")
